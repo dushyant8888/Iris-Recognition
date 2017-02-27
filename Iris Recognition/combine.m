@@ -1,0 +1,6 @@
+main_segmention
+mainfeatures
+HD_mask_inner
+HD_mask_inter
+threshold
+eer
